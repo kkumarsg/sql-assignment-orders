@@ -74,7 +74,7 @@ def main():
         print("Failed: No index used in the SELECT query.")
         sys.exit(1)  # Exit with status code 1
 
-    print("Success: All checks passed.")
+    print("Success: All checks passed")
 
 if __name__ == "__main__":
     main()
