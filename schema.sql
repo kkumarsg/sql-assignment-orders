@@ -1,6 +1,8 @@
 CREATE DATABASE IF NOT EXISTS SchoolDB;
 USE SchoolDB;
 
+create table;
+
 CREATE TABLE IF NOT EXISTS Orders (
     OrderID INT AUTO_INCREMENT,
     CustomerID INT,
